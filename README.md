@@ -3,6 +3,3 @@
 
 
 🌱 Learning Never Stops 🚀
-
-💬 Ask me about Web Development, Java, DBMS, MySQL
-
